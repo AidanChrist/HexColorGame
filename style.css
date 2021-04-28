@@ -1,0 +1,73 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#colorSample {
+  width: 500px;
+  height: 300px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: red;
+  font-size: 3em;
+  color: white;
+  text-shadow: 2px 2px 0px black;
+  text-align: center;
+  padding-top: 50px;
+  border: thin solid black;
+}
+
+.answer {
+  width: 500px;
+  font-size: 2em;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  border: thin solid black;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 30px;
+}
+
+#scoreBox {
+  font-family: "Comic Neue", cursive;
+}
+
+#e {
+  display: none;
+}
+
+#f {
+  display: none;
+}
+
+.difficulty {
+  width: 500px;
+  font-size: 2em;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  border: thin solid black;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 30px;
+}
+
+.mode {
+  width: 500px;
+  font-size: 2em;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  border: thin solid black;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 30px;
+}
